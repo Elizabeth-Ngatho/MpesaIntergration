@@ -68,4 +68,4 @@ python manage.py runserver
 
 ## License
 
-Educational and portfolio project.i
+Educational and portfolio project.
