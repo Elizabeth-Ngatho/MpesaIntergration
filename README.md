@@ -4,7 +4,7 @@
 
 M-Pesa Integration is a Django web application that demonstrates the integration of Safaricom's M-Pesa Daraja API for processing secure mobile payments.
 
-The project showcases how businesses can initiate STK Push requests, receive payment confirmations, and manage transactions within a web application.
+The project showcases how businesses can initiate STK Push requests, receive payment confirmations and manage transactions within a web application.
 
 ---
 
